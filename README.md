@@ -1,6 +1,6 @@
 # Iniciando com NodeJS
 
-## Foi desenvolvido neste video uma API simples com Node.js
+## Foi desenvolvido nesta aula uma API simples com Node.js
 A fim de conhecer o Node.js foi apresentado seus modulos na composicao de uma API REST simples.
 
 ## Foi utilizado varios modulos nativos do nodejs
